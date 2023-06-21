@@ -63,7 +63,7 @@ Download Windows 10 kits, tools, and code samples.
 
 1. In Visual Studio, open a new C# console project.
 
-1. Add a reference to the AutoAcpi.dll assembly. Under the **Project** menu, click **Add Reference**. Click **Browse** and navigate to the location of AutoAcpi.dll. Click **OK**.
+1. Add a reference to the ACPIGenFx.dll assembly. Under the **Project** menu, click **Add Reference**. Click **Browse** and navigate to the location of AutoAcpi.dll. Click **OK**.
 
 1. In **Solution Explorer**, expand **References** and select **acpigenfx**. View the objects in Object Browser (**View &gt; Object Browser**).
 
